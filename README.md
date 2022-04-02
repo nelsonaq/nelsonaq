@@ -6,7 +6,7 @@
 
 Tech's I have learned so far...
 
-<img src="https://img.icons8.com/color/344/html-5--v1.png" width="32" height="32"> <img src="https://img.icons8.com/color/344/css3.png" width="32" height="32"> <img src="https://img.icons8.com/color/344/sass.png" width="32" height="32"> <img src="https://img.icons8.com/color/344/npm.png" width="32" height="32"> <img src="https://img.icons8.com/color/344/javascript--v1.png" width="32" height="32"> <img src="https://img.icons8.com/ios-filled/344/ffffff/github.png" width="32" height="32">
+<img src="https://img.icons8.com/color/344/html-5--v1.png" width="32" height="32"> <img src="https://img.icons8.com/color/344/css3.png" width="32" height="32"> <img src="https://img.icons8.com/color/344/sass.png" width="32" height="32"> <img src="https://img.icons8.com/color/344/javascript--v1.png" width="32" height="32"> <img src="https://img.icons8.com/color/344/npm.png" width="32" height="32"> <img src="https://img.icons8.com/ios-filled/344/ffffff/github.png" width="32" height="32">
 
 <!---
 nelsonaq/nelsonaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
