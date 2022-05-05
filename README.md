@@ -7,7 +7,7 @@ I'm Nelson Aquino from the Philippines, and I'm self-taught and aspiring to beco
 
 <img src="https://img.icons8.com/color/344/html-5--v1.png" width="32" height="32"> <img src="https://img.icons8.com/color/344/css3.png" width="32" height="32"> <img src="https://img.icons8.com/color/344/sass.png" width="32" height="32"> <img src="https://img.icons8.com/color/344/javascript--v1.png" width="32" height="32"> <img src="https://img.icons8.com/color/344/npm.png" width="32" height="32"> <img src="https://img.icons8.com/ios-filled/344/ffffff/github.png" width="32" height="32">
 
-- 🔭 I’m currently working on building cool projects 
+- 🔭 I’m currently working on building cool projects and polishing my HTML, CSS & JS
 - 🌱 I’m currently learning ReactJs 
 - 📫 How to reach me: chibuds217@gmail.com  
 
