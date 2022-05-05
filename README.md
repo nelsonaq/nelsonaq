@@ -3,7 +3,7 @@
 # About me
 I'm Nelson Aquino from the Philippines, and I'm self-taught and aspiring to become a Frontend Web Developer. I'm passionate in building well-designed websites and software in general. I'm currently honing my skills in HTML, CSS and JavaScript. I plan on building a few cool projects before I start learning ReactJs.
 
-### Tech's I have learned so far...
+### Techs I have learned so far...
 
 <img src="https://img.icons8.com/color/344/html-5--v1.png" width="32" height="32"> <img src="https://img.icons8.com/color/344/css3.png" width="32" height="32"> <img src="https://img.icons8.com/color/344/sass.png" width="32" height="32"> <img src="https://img.icons8.com/color/344/javascript--v1.png" width="32" height="32"> <img src="https://img.icons8.com/color/344/npm.png" width="32" height="32"> <img src="https://img.icons8.com/ios-filled/344/ffffff/github.png" width="32" height="32">
 
