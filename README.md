@@ -16,7 +16,8 @@ I'm Nelson Aquino from the Philippines, and I'm self-taught and aspiring to beco
 - [Color Randomizer 🌈](https://github.com/nelsonaq/color-randomizer)
 - [Forkify 🍽](https://github.com/nelsonaq/forkify-course-project)
 
-#
+
+# ![](https://komarev.com/ghpvc/?username=your-github-nelsonaq&style=for-the-badge&color=1C7A7F)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonaq&theme=github_dark" />
 </a>
