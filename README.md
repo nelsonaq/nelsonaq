@@ -17,7 +17,7 @@ I'm Nelson Aquino from the Philippines, and I'm self-taught and aspiring to beco
 - [Forkify 🍽](https://github.com/nelsonaq/forkify-course-project)
 
 #
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonaq&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
