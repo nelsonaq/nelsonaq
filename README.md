@@ -9,7 +9,7 @@ I'm Nelson Aquino from the Philippines, and I'm self-taught and aspiring to beco
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 
-### Here's the recent project I worked on...
+### Here are the recent projects I worked on...
 - [Space Tourism 🚀](https://github.com/nelsonaq/space-tourism)
 - [Advice Generator 🎲](https://github.com/nelsonaq/advice-generator)
 - [Stopwatch ⏲](https://github.com/nelsonaq/stopwatch)
