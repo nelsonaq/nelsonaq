@@ -17,7 +17,13 @@ I'm Nelson Aquino from the Philippines, and I'm self-taught and aspiring to beco
 - [Forkify 🍽](https://github.com/nelsonaq/forkify-course-project)
 
 #
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonaq) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsonaq&show_icons=true)  
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonaq&theme=github_dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nelsonaq&show_icons=true&theme=github_dark" />
+</a>
+
 <!---
 nelsonaq/nelsonaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
